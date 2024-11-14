@@ -16,8 +16,8 @@ jobs:
       - name: Auto Translate
         uses: puleugo/kablog@main
         with:
-            GH_REPOSITORY: 'YOUR-REPOSITORY'
-            GH_USER: 'YOUR-USERNAME'
+            GH_REPOSITORY: 'Blog-Auto'
+            GH_USER: 'yoondonggyu'
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
             GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
