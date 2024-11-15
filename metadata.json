@@ -87,8 +87,17 @@
         "language": "ko-KR",
         "uploadedAt": "2024-08-03"
       },
-      "translatedLanguages": [],
-      "translated": {}
+      "translatedLanguages": [
+        "en"
+      ],
+      "translated": {
+        "en": [
+          {
+            "title": "[NVIDIA] Allocating MIG (Multi-Instance GPU) to Docker Containers",
+            "url": "https://medium.com/@estar987/nvidia-allocating-mig-multi-instance-gpu-to-docker-containers-cd5988d24eb9"
+          }
+        ]
+      }
     },
     "11": {
       "original": {
@@ -97,8 +106,17 @@
         "language": "ko-KR",
         "uploadedAt": "2024-08-09"
       },
-      "translatedLanguages": [],
-      "translated": {}
+      "translatedLanguages": [
+        "en"
+      ],
+      "translated": {
+        "en": [
+          {
+            "title": "[Ubuntu] Setting Up a VM Environment for K8s (Docker Installation)",
+            "url": "https://medium.com/@estar987/ubuntu-setting-up-a-vm-environment-for-k8s-docker-installation-565fbc3ec574"
+          }
+        ]
+      }
     },
     "12": {
       "original": {
@@ -107,8 +125,17 @@
         "language": "ko-KR",
         "uploadedAt": "2024-08-09"
       },
-      "translatedLanguages": [],
-      "translated": {}
+      "translatedLanguages": [
+        "en"
+      ],
+      "translated": {
+        "en": [
+          {
+            "title": "[Ubuntu] Configuring Kubernetes",
+            "url": "https://medium.com/@estar987/ubuntu-configuring-kubernetes-50fe30cb035b"
+          }
+        ]
+      }
     },
     "13": {
       "original": {
@@ -127,8 +154,17 @@
         "language": "ko-KR",
         "uploadedAt": "2024-08-12"
       },
-      "translatedLanguages": [],
-      "translated": {}
+      "translatedLanguages": [
+        "en"
+      ],
+      "translated": {
+        "en": [
+          {
+            "title": "[Ubuntu] Expanding a Kubernetes Cluster by Adding a Node",
+            "url": "https://medium.com/@estar987/ubuntu-expanding-a-kubernetes-cluster-by-adding-a-node-3b764106ac2e"
+          }
+        ]
+      }
     },
     "15": {
       "original": {
@@ -147,8 +183,17 @@
         "language": "ko-KR",
         "uploadedAt": "2024-08-28"
       },
-      "translatedLanguages": [],
-      "translated": {}
+      "translatedLanguages": [
+        "en"
+      ],
+      "translated": {
+        "en": [
+          {
+            "title": "[Ubuntu] Manual Installation of PostgreSQL",
+            "url": "https://medium.com/@estar987/ubuntu-manual-installation-of-postgresql-947e8549231f"
+          }
+        ]
+      }
     },
     "17": {
       "original": {
@@ -516,8 +561,8 @@
       "platform": "Medium",
       "language": "en",
       "rssUrl": "https://broad.estar987.com/rss",
-      "lastPublishedIndex": 0,
-      "lastPublishedAt": "2003-12-01",
+      "lastPublishedIndex": 16,
+      "lastPublishedAt": "2024-11-15",
       "type": "SUBSCRIBER"
     }
   ],
